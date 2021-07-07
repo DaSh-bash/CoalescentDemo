@@ -6,7 +6,5 @@ Update by @DaSh-bash\
 
 
 @DaSh-bash\
-@percyfal \ 
-
-For Backström group\
+@percyfal\ 
 8.04.2021
